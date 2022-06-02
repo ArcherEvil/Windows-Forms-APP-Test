@@ -1,0 +1,11 @@
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\bin\Debug\Windows Forms APP Test.exe.config
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\bin\Debug\Windows Forms APP Test.exe
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\bin\Debug\Windows Forms APP Test.pdb
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows Forms APP Test.csproj.AssemblyReference.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows Forms APP Test.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows_Forms_APP_Test.Form1.resources
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows_Forms_APP_Test.Properties.Resources.resources
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows Forms APP Test.csproj.GenerateResource.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows Forms APP Test.csproj.CoreCompileInputs.cache
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows Forms APP Test.exe
+C:\Users\Luis A. Viegas\Documents\Arquivos\Code Projects\Windows Forms APP Test\Windows Forms APP Test\obj\Debug\Windows Forms APP Test.pdb
